@@ -9,3 +9,10 @@ function sum(num1, num2)
     
 }
 sum(5,7)
+// multiplication
+
+function multiplication(num1, num2) {
+    console.log(num1 * num2);
+    
+}
+multiplication(4,5)
