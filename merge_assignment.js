@@ -24,3 +24,4 @@ function division(num1,num2) {
     
 }
 division(9,3)
+//  this is substraction
